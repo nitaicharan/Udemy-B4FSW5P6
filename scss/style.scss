@@ -4,6 +4,7 @@
         height: 100%;
     }
     .port-item {
+        padding: 1.5rem;
         width: 30%;
     }
     .port-item:hover {
@@ -15,6 +16,12 @@
 .bg-black {
     color: #fff;
     background: #000;
+}
+
+@media (min-width: 1200px) {
+    .port-item {
+        padding: 3em !important;
+    }
 }
 
 // last linea
