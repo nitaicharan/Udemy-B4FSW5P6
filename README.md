@@ -27,7 +27,7 @@ This project was part of the Udemy course "Bootstrap 4 From Scratch With 5 Proje
 
 ### Certificate
 
-This certificate above verifies that [Nitai Charan][udemy-url] successfully completed the course [Bootstrap 4 From Scratch With 5 Projects][course-url] on ??/??/???? as taught by [Brad Traversy][instructor-url] on Udemy. The certificate indicates the entire course was completed as validated by the student.
+This certificate above verifies that [Nitai Charan][udemy-url] successfully completed the course [Bootstrap 4 From Scratch With 5 Projects][course-url] on 05/04/2020 as taught by [Brad Traversy][instructor-url] on Udemy. The certificate indicates the entire course was completed as validated by the student.
 
 <p align="center">
   <img src="CERTIFICATE.jpg">
@@ -60,9 +60,9 @@ git push origin `git subtree split --prefix done/ master`:gh-pages --force
 
 <!-- ALIES README -->
 
-[course-url]: https://www.udemy.com/course/bootstrap-4-from-scratch-with-5-projects/
-[instructor-url]: https://www.udemy.com/user/brad-traversy/
-[certificate-url]: #
+[course-url]: https://udemy.com/course/bootstrap-4-from-scratch-with-5-projects/
+[instructor-url]: https://udemy.com/user/brad-traversy/
+[certificate-url]: https://ude.my/UC-6ead1c66-cb36-4fd5-9701-cbd5830e53eb
 
 <!-- CONTACT SHIELDS -->
 
